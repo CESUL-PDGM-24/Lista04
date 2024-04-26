@@ -84,4 +84,8 @@ public class Salesman {
     public SeniorityLevel getSeniority() {
         return seniority;
     }
+
+    public void setSeniority(SeniorityLevel seniority) {
+        this.seniority = seniority;
+    }
 }
